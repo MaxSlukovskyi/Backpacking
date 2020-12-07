@@ -1,0 +1,2 @@
+D:\Backpacking\Debug\Backpacking.exe
+D:\Backpacking\Debug\Backpacking.pdb
